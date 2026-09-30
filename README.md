@@ -1,8 +1,8 @@
-# 안녕하세요, 백엔드 개발자 허예진입니다 👋
+# 안녕하세요, 백엔드 개발자 허예진입니다.
 
 ### 예외 상황에서도 신뢰할 수 있는 시스템을 만듭니다.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -23,29 +23,29 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
 
-## 🚀 Projects
+## Projects
 
-### StarPick · 별따먹자
+### 01 StarPick · 별따먹자 <sub>2026.08 ~ 진행 중</sub>
 ‘오늘 뭐 먹지?’라는 고민을 덜어주는 랜덤 레시피 추천 서비스
 
 - 광고 보상 기능의 중복 요청 처리와 동시성 제어
 - Google 서버 검증 콜백을 활용한 보상 검증
 - GCP 환경의 Docker 배포 및 CI/CD 구축
 
-### AdoptLink
+### 02 AdoptLink <sub>2025.11 ~ 2026.07</sub>
 유기동물 정보 탐색과 실시간 채팅을 통한 입양 문의 서비스
 
 - 개인 프로젝트로 백엔드와 AWS 환경 직접 구성
 - JWT 기반 인증 및 WebSocket·STOMP 채팅 구현
 - 사용자별 채팅방 상태 처리와 데이터 누락 문제 개선
 
-### Dailic
+### 03 Dailic <sub>2025.03 ~ 2025.09</sub>
 문제 풀이와 AI 질문 기능을 제공하는 문제은행 서비스
 
 - OpenAI API 연동 기능의 예외 처리 개선
 - 요청 제한·응답 지연에 따른 HTTP 오류 응답 구분
 - 모의 HTTP 서버를 활용한 실패 상황 재현 및 검증
 
-## 🌱 Activities
-
-- AWS Cloud Club Hongik 3기 | 2025.09–2025.12
+### Experiences
+- 홍익대학교 컴퓨터·데이터공학부 <sub>2023.03 ~ 2026.08</sub>
+- AWS Cloud Club Hongik 3기 <sub>2025.09 ~ 2025.12</sub>
