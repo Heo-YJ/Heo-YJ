@@ -29,6 +29,8 @@
 
 📱 **App Store 출시** · [스토어에서 보기](https://apps.apple.com/kr/app/id6806955040)
 
+💻 [GitHub Repository](https://github.com/swyp-app-6-team-2/backend)
+
 - 광고 보상 기능의 중복 요청 처리와 동시성 제어
 - Google 서버 검증 콜백을 활용한 보상 검증
 - GCP 환경의 Docker 배포 및 CI/CD 구축
@@ -36,12 +38,16 @@
 ### 02  AdoptLink <sub>(2025.11 ~ 2026.07)</sub>
 유기동물 정보 탐색과 실시간 채팅을 통한 입양 문의 서비스
 
+💻 [GitHub Repository](https://github.com/Heo-YJ/AdoptLink-app-service)
+
 - 개인 프로젝트로 백엔드와 AWS 환경 직접 구성
 - JWT 기반 인증 및 WebSocket·STOMP 채팅 구현
 - 사용자별 채팅방 상태 처리와 데이터 누락 문제 개선
 
 ### 03  Dailic <sub>(2025.03 ~ 2025.09)</sub>
 문제 풀이와 AI 질문 기능을 제공하는 문제은행 서비스
+
+💻 [GitHub Repository](https://github.com/Heo-YJ/dailic-backend)
 
 - OpenAI API 연동 기능의 예외 처리 개선
 - 요청 제한·응답 지연에 따른 HTTP 오류 응답 구분
