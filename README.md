@@ -25,7 +25,7 @@
 
 ## Projects
 
-### 01 StarPick · 별따먹자 <sub>(2026.08 ~ 진행 중)</sub>
+### 01  StarPick · 별따먹자 <sub>(2026.08 ~ 진행 중)</sub>
 ‘오늘 뭐 먹지?’라는 고민을 덜어주는 랜덤 레시피 추천 서비스
 
 📱 **App Store 출시** · [스토어에서 보기](https://apps.apple.com/kr/app/id6806955040)
@@ -34,14 +34,14 @@
 - Google 서버 검증 콜백을 활용한 보상 검증
 - GCP 환경의 Docker 배포 및 CI/CD 구축
 
-### 02 AdoptLink <sub>(2025.11 ~ 2026.07)</sub>
+### 02  AdoptLink <sub>(2025.11 ~ 2026.07)</sub>
 유기동물 정보 탐색과 실시간 채팅을 통한 입양 문의 서비스
 
 - 개인 프로젝트로 백엔드와 AWS 환경 직접 구성
 - JWT 기반 인증 및 WebSocket·STOMP 채팅 구현
 - 사용자별 채팅방 상태 처리와 데이터 누락 문제 개선
 
-### 03 Dailic <sub>(2025.03 ~ 2025.09)</sub>
+### 03  Dailic <sub>(2025.03 ~ 2025.09)</sub>
 문제 풀이와 AI 질문 기능을 제공하는 문제은행 서비스
 
 - OpenAI API 연동 기능의 예외 처리 개선
